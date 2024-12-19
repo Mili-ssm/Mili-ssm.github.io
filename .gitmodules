@@ -13,3 +13,7 @@
 [submodule "IteratorTools"]
 	path = Python/IteratorTools
 	url = https://github.com/Mili-ssm/IteratorTools.git
+
+[submodule "LifeGame"]
+	path = Python/LifeGame
+	url = https://github.com/Mili-ssm/LifeGame.git
