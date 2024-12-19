@@ -2,18 +2,18 @@
 	path = advent_of_code
 	url = https://github.com/Mili-ssm/advent_of_code.git
 
-[submodule "stack_virtual_machine"]
+[submodule "Python/stack_virtual_machine"]
 	path = Python/stack_virtual_machine
 	url = https://github.com/Mili-ssm/stack_virtual_machine.git
 
-[submodule "MIOTI_DS_ProyectoFinal"]
+[submodule "Python/MIOTI_DS_ProyectoFinal"]
 	path = Python/MIOTI_DS_ProyectoFinal
 	url = https://github.com/Mili-ssm/MIOTI_DS_ProyectoFinal.git
 
-[submodule "IteratorTools"]
+[submodule "Python/IteratorTools"]
 	path = Python/IteratorTools
 	url = https://github.com/Mili-ssm/IteratorTools.git
 
-[submodule "LifeGame"]
+[submodule "Python/LifeGame"]
 	path = Python/LifeGame
 	url = https://github.com/Mili-ssm/LifeGame.git
