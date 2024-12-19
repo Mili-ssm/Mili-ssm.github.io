@@ -7,19 +7,19 @@
 
 [submodule "Rust/stack_virtual_machine"]
 	path = Rust/stack_virtual_machine
-	url = git@github.com:Mili-ssm/stack_virtual_machine.git
+	url = https://github.com/Mili-ssm/stack_virtual_machine.git
 
 
 # Python
 
 [submodule "Python/MIOTI_DS_ProyectoFinal"]
 	path = Python/MIOTI_DS_ProyectoFinal
-	url = git@github.com:Mili-ssm/MIOTI_DS_ProyectoFinal.git
+	url = https://github.com/Mili-ssm/MIOTI_DS_ProyectoFinal.git
 
 [submodule "Python/IteratorTools"]
 	path = Python/IteratorTools
-	url = git@github.com:Mili-ssm/IteratorTools.git
+	url = https://github.com/Mili-ssm/IteratorTools.git
 
 [submodule "Python/LifeGame"]
 	path = Python/LifeGame
-	url = git@github.com:Mili-ssm/LifeGame.git
+	url = https://github.com/Mili-ssm/LifeGame.git
