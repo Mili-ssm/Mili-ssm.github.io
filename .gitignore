@@ -1,0 +1,21 @@
+/Private/**
+
+
+# Python
+/Python/**/*.pyc
+/Python/**/*.venv
+/Python/**/build/**
+
+# Java
+/Java/**/artifacts/**
+/Java/**/out/**
+/Java/**/*.jar
+/Java/**/*.class
+
+# Rust
+# /Rust/**/target/**
+
+# trash files
+/**/*.rar
+/**/*.zip
+/**/*.pdf

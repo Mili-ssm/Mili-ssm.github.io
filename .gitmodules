@@ -1,3 +1,15 @@
 [submodule "advent_of_code"]
 	path = advent_of_code
 	url = https://github.com/Mili-ssm/advent_of_code.git
+
+[submodule "stack_virtual_machine"]
+	path = Rust/stack_virtual_machine
+	url = https://github.com/Mili-ssm/stack_virtual_machine.git
+
+[submodule "MIOTI_DS_ProyectoFinal"]
+	path = Python/MIOTI_DS_ProyectoFinal
+	url = https://github.com/Mili-ssm/MIOTI_DS_ProyectoFinal.git
+
+[submodule "IteratorTools"]
+	path = Python/IteratorTools
+	url = https://github.com/Mili-ssm/IteratorTools.git
