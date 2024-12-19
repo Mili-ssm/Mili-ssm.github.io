@@ -20,6 +20,3 @@
 	path = Python/IteratorTools
 	url = git@github.com:Mili-ssm/IteratorTools.git
 
-[submodule "Python/LifeGame"]
-	path = Python/LifeGame
-	url = git@github:Mili-ssm/LifeGame.git
