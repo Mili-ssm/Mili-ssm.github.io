@@ -8,5 +8,5 @@ index_page: README.md
 include:
   - Projects/
   - Pages/
-  - assets
+  - assets/
 permalink: /:path/
