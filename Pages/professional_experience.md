@@ -1,6 +1,6 @@
 ---
 collection: pages
-layout: default
+layout: page
 title: "Professional Experience"
 ---
 
