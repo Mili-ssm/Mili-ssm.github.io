@@ -6,3 +6,4 @@ url: "https://mili-ssm.github.io"
 readme_index:
   enabled: true
   remove_originals: true
+  with_frontmatter: true
