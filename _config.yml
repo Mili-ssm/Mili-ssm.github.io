@@ -8,3 +8,10 @@ include:
   - Pages/
   - assets/
 permalink: /:path/
+
+readme_index:
+  enabled: true
+  remove_originals: true
+
+plugins:
+  - jekyll-readme-index
