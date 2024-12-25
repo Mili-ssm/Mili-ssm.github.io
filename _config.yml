@@ -1,7 +1,15 @@
 title: "Portfolio of Santiago Serrano Marco"
 description: "A showcase of my projects, skills, and experience."
-theme: jekyll-theme-minimal
+theme: minima
 url: "https://mili-ssm.github.io"
+
+minima:
+  skin: dark
+
+header_pages:
+  - Pages/about_me.md
+  - Pages/profesional_expirience.md
+  - Projects/README.md
 
 readme_index:
   enabled: true
