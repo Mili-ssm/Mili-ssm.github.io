@@ -9,6 +9,8 @@ minima:
 header_pages:
   - Pages/about_me.md
   - Pages/profesional_expirience.md
+  - Pages/about_me.md
+  - profesional_expirience.md
   - Projects/README.md
 
 readme_index:
