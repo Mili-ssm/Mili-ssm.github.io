@@ -3,6 +3,8 @@ description: "A showcase of my projects, skills, and experience."
 theme: jekyll-theme-minimal
 url: "https://mili-ssm.github.io"
 
+index_page: README.md
+
 include:
   - Projects/
   - Pages/
