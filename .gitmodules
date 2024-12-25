@@ -1,6 +1,8 @@
-[submodule "Projects/advent_of_code"]
-	path = Projects/advent_of_code
-	url = https://github.com/Mili-ssm/advent_of_code.git
+# challenges
+[submodule "Challenges/advent_of_code"]
+	path = Challenges/advent_of_code
+	url = https://github.com/Mili-ssm/advent_of_code
+
 
 
 # RUST

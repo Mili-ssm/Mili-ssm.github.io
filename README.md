@@ -1,7 +1,7 @@
 ---
 collection: pages
 layout: page
-title: "Portfolio of Santiago Serrano Marco"
+title: "Santiago Serrano Marco"
 ---
 
 # Welcome to My Portfolio
@@ -10,8 +10,10 @@ Hello, I am **Santiago Serrano Marco**, a Software and Data Engineer with experi
 
 ### Quick Links
 
-- [Projects](Projects/README.md)
-- [Programming Challenges](challenges/README.md)
-- [Professional Experience](Pages/professional_experience.md)
-- [About Me](Pages/about_me.md)
-- [Download CV](assets/Downloads/CV.pdf)
+- **Code**:
+  - [Perosnal Projects](Projects/README.md)
+  - [Programming Challenges](challenges/README.md)
+- **Experience**:
+  - [Professional Experience](Pages/professional_experience.md)
+  - [About Me](Pages/about_me.md)
+  - [Download CV](assets/Downloads/CV.pdf)

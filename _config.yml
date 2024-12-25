@@ -9,10 +9,6 @@ plugins:
 minima:
   skin: dark
 
-header_pages:
-  - Pages/about_me.md
-  - Pages/profesional_expirience.md
-
 readme_index:
   enabled: true
   remove_originals: true
