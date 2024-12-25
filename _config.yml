@@ -7,3 +7,11 @@ readme_index:
   enabled: true
   remove_originals: true
   with_frontmatter: true
+
+collections:
+  projects:
+    output: true
+    permalink: /Projects/:name/
+  pages:
+    output: true
+    permalink: /:name/

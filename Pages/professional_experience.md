@@ -1,4 +1,5 @@
 ---
+collection: pages
 layout: default
 title: "Professional Experience"
 ---
