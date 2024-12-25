@@ -4,7 +4,6 @@ layout: page
 title: "Professional Experience"
 ---
 
-# Professional Experience
 
 ### Summary
 

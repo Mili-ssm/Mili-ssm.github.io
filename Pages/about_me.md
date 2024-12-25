@@ -4,7 +4,6 @@ layout: page
 title: "About Me"
 ---
 
-# About Me
 
 I am **Santiago Serrano Marco**, a passionate Software and Data Engineer. I like programming as a hobbie and as a profession. I have experience in **Deep Learning**, **Machine Learning**, **Data Science**, and **Data Processing**. I am proficient in **Python** and **Rust**.
 
