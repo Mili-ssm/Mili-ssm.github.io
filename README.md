@@ -1,5 +1,6 @@
 ---
-layout: default
+collection: pages
+layout: page
 title: "Portfolio of Santiago Serrano Marco"
 ---
 
