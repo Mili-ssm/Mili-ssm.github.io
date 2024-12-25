@@ -22,4 +22,4 @@
 
 [submodule "Projects/Python/LifeGame"]
 	path = Projects/Python/LifeGame
-	url = https://github.com/Mili-ssm/LifeGame.git
+	url = https://github.com/Mili-ssm/LifeGame
