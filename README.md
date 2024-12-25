@@ -11,10 +11,11 @@ Hello, I am **Santiago Serrano Marco**, a Software and Data Engineer with experi
 ### Quick Links
 
 - **Code**:
-  - [Perosnal Projects](Projects/README.md)
+  - [Personal Projects](Projects/README.md)
   - [Programming Challenges](Challenges/README.md)
 - **Experience**:
   - [Professional Experience](Pages/professional_experience.md)
   - [About Me](Pages/about_me.md)
 - **Files**:
   - [Download CV](assets/Downloads/CV.pdf)
+
