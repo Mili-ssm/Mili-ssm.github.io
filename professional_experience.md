@@ -39,4 +39,4 @@ I have worked as a Software and Data Engineer in diverse roles, focusing on **so
 - Developed tools for Salesforce automation and NLP-based text translation.
 - Planned software architectures to ensure scalability.
 
-For a complete breakdown of my experience, download my [CV](cv/CV.pdf).
+For a complete breakdown of my experience, download my [CV](downloads/CV.pdf).

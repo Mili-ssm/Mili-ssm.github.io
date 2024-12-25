@@ -7,7 +7,7 @@ title: "Portfolio of Santiago Serrano Marco"
 
 Hello, I am **Santiago Serrano Marco**, a Software and Data Engineer with experience in software performance, data pipelines, and AI projects. Proficient in Python and Rust, I focus on creating scalable, maintainable, and efficient solutions.
 
-## Quick Links
+### Quick Links
 
 - [Projects](projects/README.md)
 - [Programming Challenges](challenges/README.md)
