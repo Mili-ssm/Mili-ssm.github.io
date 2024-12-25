@@ -2,15 +2,15 @@
 
 
 # Python
-/Python/**/*.pyc
-/Python/**/*.venv
-/Python/**/build/**
+Projects/Python/**/*.pyc
+Projects/Python/**/*.venv
+Projects/Python/**/build/**
 
 # Java
-/Java/**/artifacts/**
-/Java/**/out/**
-/Java/**/*.jar
-/Java/**/*.class
+Projects/Java/**/artifacts/**
+Projects/Java/**/out/**
+Projects/Java/**/*.jar
+Projects/Java/**/*.class
 
 # Rust
 # /Rust/**/target/**
