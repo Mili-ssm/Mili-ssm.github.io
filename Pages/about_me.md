@@ -47,12 +47,14 @@ I am **Santiago Serrano Marco**, a passionate Software and Data Engineer. I like
 | Framework/Library | Proficiency  |
 |-------------------|--------------|
 | FastAPI           | Advanced     |
-| PyTorch           | Advanced     |
+| Torch             | Advanced     |
 | NumPy             | Advanced     |
 | Pandas            | Advanced     |
 | Polars            | Advanced     |
 | Scikit-learn      | Intermediate |
 | Spark             | Basic        |
+
+***Note**: I have experience with other libraries and frameworks, but I have not included them in this list for brevity and relevance.*
 
 #### Soft Skills
 

@@ -5,16 +5,14 @@ title: "Professional Experience"
 ---
 
 
-### Summary
+I have worked as a Software and Data Engineer in diverse roles, focusing on **software scalability**, **software perfomance**, **machine learning** and **data analisys**.
 
-I have worked as a Software and Data Engineer in diverse roles, focusing on **software scalability**, **software perfomance**, **machine learning** and **backend solutions**.
-
-| Company                            | Role                          | Dates                |
-|------------------------------------|-------------------------------|----------------------|
-| We Humans, Madrid                  | Software Engineer/Data Science| Jul 2024 – Nov 2024  |
-| Nertus Servicios y Mantenimiento   | Software Engineer             | Jan 2023 – May 2024  |
-| Nubecento, Madrid                  | Software Engineer             | Jun 2021 – Dec 2022  |
-| Innotec Systems, Madrid            | Junior Developer              | Mar 2019 – Jun 2019  |
+| Company                            | Role                   | Dates                |
+|------------------------------------|------------------------|----------------------|
+| We Humans                          | Data Science           | Jul 2024 – Nov 2024  |
+| Nertus Servicios y Mantenimiento   | Data Analyst           | Jan 2023 – May 2024  |
+| Nubecento                          | Software Engineer      | Jun 2021 – Dec 2022  |
+| Innotec Systems                    | Junior Developer       | Mar 2019 – Jun 2019  |
 
 ---
 
@@ -39,4 +37,4 @@ I have worked as a Software and Data Engineer in diverse roles, focusing on **so
 - Developed tools for Salesforce automation and NLP-based text translation.
 - Planned software architectures to ensure scalability.
 
-For a complete breakdown of my experience, download my [CV](downloads/CV.pdf).
+For a complete breakdown of my experience, download my [CV](assets/Downloads/CV.pdf).
