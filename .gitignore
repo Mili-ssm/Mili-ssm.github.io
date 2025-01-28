@@ -23,3 +23,5 @@ Projects/Java/**/*.class
 # trash files
 /**/*.rar
 /**/*.zip
+
+/Learning/**
